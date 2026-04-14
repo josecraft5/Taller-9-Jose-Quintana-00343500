@@ -11,3 +11,5 @@
 **bloque4_desafio.py:** Integra todo: crea una nueva columna, cuenta estados y genera un gráfico final.
 
 ## Que aprendi
+
+Aprendi a como usar y entendi como funcionan las librerias e installar tanto Pandas como matplotlib en python en especial a aplicar filtros y agrupaciones para analizarlos, y representar la información mediante gráficos con matplotlib para una mejor interpretación.
